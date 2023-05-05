@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi, I’m @kumbharnv\n
+👋 Hi, I’m @kumbharnv
 👀 I’m interested in DevOps.Cloud Engineer,Azure,AWS,GCP consultant
 🌱 I’m currently AWS,Azure and GCP
 💞️ I’m looking to collaborate on Industry move towards cloud technology
